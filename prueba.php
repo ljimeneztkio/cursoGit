@@ -51,6 +51,9 @@
 		<div>
 			Anuncio 2
 		</div>
+		<div>
+			Anuncio 3
+		</div>
 	</aside>
 	<footer>
 		<hr>
