@@ -15,7 +15,7 @@
 		<nav>
 			<ul>
 				<li><a href="Opcion1.php">Opcion 1</a></li>
-				<li><a href="Opcion2.php">Opcion 2</a></li>
+				<li><a href="Option2.php">Opcion 2</a></li>
 				<li><a href="Opcion3.php">Opcion 3</a></li>
 				<li><a href="Opcion4.php">Opcion 4</a></li>
 				<li><a href="Opcion5.php">Opcion 5</a></li>
@@ -47,7 +47,7 @@
 		<div>
 			Utilizamos el commando git commit -am para sustituir (git status .) seguido de realizar el commit
 		</div>
-		
+
 	</section>
 	<aside>
 		<div>
