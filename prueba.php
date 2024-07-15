@@ -43,6 +43,11 @@
 			Sint eos sit dolore repellat dicta molestiae adipisci dolorum facilis. Maxime aspernatur vel facilis reprehenderit optio nulla esse atque! Rem illum ipsum dolore, maxime nulla voluptatum obcaecati reiciendis ut unde!
 			Magnam, facere nisi odio quo quam nostrum ipsa perferendis, commodi, atque doloribus fugit voluptate odit quia modi nemo soluta. Vel laborum necessitatibus quasi? Deserunt blanditiis vitae harum necessitatibus voluptatum cumque.
 		</div>
+
+		<div>
+			Utilizamos el commando git commit -am para sustituir (git status .) seguido de realizar el commit
+		</div>
+		
 	</section>
 	<aside>
 		<div>
