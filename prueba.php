@@ -52,6 +52,11 @@
 			Anuncio 2
 		</div>
 	</aside>
-	<footer></footer>
+	<footer>
+		<hr>
+		<div>
+			Derechos Reservados &copy Luis Enrique Jimenez 2024
+		</div>
+	</footer>
 </body>
 </html>
