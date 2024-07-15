@@ -27,7 +27,14 @@
 			<?= "Bienvenido a la página web de esta empresa" ?>
 		</div>
 	</section>
-	<aside></aside>
+	<aside>
+		<div>
+			Anuncio 1
+		</div>
+		<div>
+			Anuncio 2
+		</div>
+	</aside>
 	<footer></footer>
 </body>
 </html>
